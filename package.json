@@ -1,0 +1,23 @@
+{
+  "name": "myweather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niftyrinki/myweather.git"
+  },
+  "author": "Rinki Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niftyrinki/myweather/issues"
+  },
+  "homepage": "https://github.com/niftyrinki/myweather#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}

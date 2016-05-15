@@ -1,0 +1,22 @@
+body {
+	background-color: #0fffff;
+}
+
+.myweather {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+
+}
+
+h2 {
+ font-size: 18px;
+ color: #0000ffss;
+}
+
+button {
+	font-size: 18px;
+ color: #000000;
+ border: 2px solid grey;
+ background-color: grey;
+}
