@@ -1,22 +1,23 @@
 body {
-	background-color: #0fffff;
+	background-color: #3f4041;
 }
 
 .myweather {
 	height: 100%;
 	width: 100%;
 	text-align: center;
-
 }
 
 h2 {
- font-size: 18px;
- color: #0000ffss;
+	font-size: 18px;
+	color: #ffffff;
 }
 
 button {
 	font-size: 18px;
- color: #000000;
- border: 2px solid grey;
- background-color: grey;
+	color: #ffffff;
+	border: 2px solid buttonface;
+	border-radius: 20px;
+	padding: 10px 25px;
+	opacity: 1.5;
 }
