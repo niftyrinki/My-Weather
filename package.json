@@ -2,9 +2,10 @@
   "name": "myweather",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,10 @@
   "homepage": "https://github.com/niftyrinki/myweather#readme",
   "dependencies": {
     "body-parser": "^1.15.1",
-    "express": "^4.13.4"
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "nodemon": "^1.9.2",
+    "request": "^2.72.0"
   }
 }
